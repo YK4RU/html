@@ -1,0 +1,14 @@
+body {
+    color:white;
+    background-image: url(wallpaper.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+#feliz{
+    width: 200px;  /* ou 50% para largura relativa */
+    height: 300px
+}
